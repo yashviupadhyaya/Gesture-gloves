@@ -3,7 +3,7 @@ The project is initiated to help speechless patients to convey their messages re
 The project uses wireless buetooth technology for sending and receiving messages between the glove and an android application which gives audio and text output.
 
 ### CIRCUIT DIAGRAM 
-![Circuit Diagram](Circuitdiagram.jpg)
+![Circuit Diagram](circuit.png)
 <br>
 <br>
 
