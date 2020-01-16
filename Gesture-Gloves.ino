@@ -44,7 +44,7 @@ void loop()
 //  Serial.println(angle1);
 //  Serial.println(angle2);
 //  Serial.println(angle3);
-  if(angle1>0 && angle2>0 && angle3>0){
+  if(angle1>60 && angle2>60 && angle3>60){
     {
       Serial.println("Water");
     }
